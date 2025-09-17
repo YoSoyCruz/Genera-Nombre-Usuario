@@ -1,0 +1,20 @@
+{
+  "name": "generador-nombres-usuario",
+  "version": "1.0.0",
+  "description": "Genera opciones para nombre de usuario a partir de nombres y apellidos, ideal para registrar en sistemas de registro de empleados.",
+  "main": "generaUsuario.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoSoyCruz/Genera-Nombre-Usuario.git"
+  },
+  "keywords": ["usuario", "nombres", "generador", "nombre de usuario", "identidad"],
+  "author": "Cruz Ortiz (https://github.com/YoSoyCruz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoSoyCruz/Genera-Nombre-Usuario/issues"
+  },
+  "homepage": "https://github.com/YoSoyCruz/Genera-Nombre-Usuario#readme"
+}
